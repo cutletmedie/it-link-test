@@ -1,5 +1,7 @@
-import Button, {ButtonType} from "@/components/atoms/Button";
-import Text from "@/components/atoms/Text";
+'use client'
+
+import Button, {ButtonType} from "@/components/counter/atoms/Button";
+import Text from "@/components/counter/atoms/Text";
 import {ReactNode} from "react";
 
 type Props = {
